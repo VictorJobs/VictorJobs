@@ -2,8 +2,11 @@
 
 Hello, my name is Victor Job, and I'm a studing web development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjobs&show_icons=true&theme=dark)](https://github.com/victorjobs/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjobs&layout=compact&theme=dark)](https://github.com/victorjobs/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/VictorJobs">
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=VictorJobs&show_icons=true&theme=dark"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJobs&layout=compact&theme=dark"/>
+</div>
 
  <div align="center">
 <div style="display: inline_block"><br>
