@@ -19,9 +19,11 @@ Hello, my name is Victor Job, and I'm a studing web development.
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/victor-job-2017b01ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/victor_job" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-job-2017b01ab/" target="_blank"><img alingn="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/victor_job" target="_blank"><img alingn="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Victorjobs/count.svg" /></p>
 
 ##
-
+ 
+ ![snake gif](https://github.com/VictorJobs/VictorJobs/blob/output/github-contribution-grid-snake.svg)
