@@ -1,6 +1,6 @@
 # Hi, welcome to my profile on GitHub 
 
-Hello, my name is Victor Job, and I'm a studing web development.
+Hello, my name is Victor Job and I'm a studing web development.
 
 <div align="center">
   <a href="https://github.com/VictorJobs">
